@@ -1,0 +1,12 @@
+
+ @charset "UTF-8";
+
+#apDiv21 {
+	position: absolute;
+	left: 216px;
+	top: 231px;
+	width: 1040px;
+	height: 205px;
+	z-index: 14;
+	text-align: center;
+}
